@@ -1,0 +1,6 @@
+{
+  "name": "Hydro Hero – The Power of Water",
+  "description": "Interactive 3D hydroelectricity laboratory and educational science game where students explore flowing water, spinning turbines, generators, and clean electricity generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
